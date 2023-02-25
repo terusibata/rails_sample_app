@@ -6,6 +6,10 @@ ruby "3.1.3"
 # Use bootstrap 3.4.1 [https://rubygems.org/gems/bootstrap-sass/versions/3.4.1?locale=ja]
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 
+gem 'faker', '>=3.1.1'
+gem 'will_paginate', '~> 3.3', '>= 3.3.1'
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.2'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.4", ">= 7.0.4.2"
 
